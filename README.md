@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adham Kamel 👋
 
-<!--
-**adhamkamel13/adhamkamel13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate based in Giza, Egypt, with a focused interest in **cybersecurity**.
 
-Here are some ideas to get you started:
+I'm building hands-on skills in networking, Linux administration, and ethical hacking through certified training and self-learning, and I'm looking to start my career in an entry-level security role or training program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Background
+- B.Sc. in Computer Science — Akhbar Al Yom Academy (2022–2026)
+- Graduation project: **MoveIt**, a smart goods-transport mobile app (Flutter, Dart, Firebase)
+
+## 📜 Certifications
+- Ethical Hacking — ITI Mahara-Tech
+- Network Security — ITI Mahara-Tech
+- Implementation of Computer Network Fundamentals — ITI Mahara-Tech
+- Red Hat System Administration I — ITI Mahara-Tech
+- Python for Everybody — University of Michigan (Coursera), in progress
+
+## 🛠️ Skills
+**Security:** Network Fundamentals, Network Security, Ethical Hacking basics
+**Systems:** Linux, CLI, VMware (virtualization)
+**Dev:** HTML, CSS, Python (basic), Flutter, Dart
+**Other:** Figma, UI/UX design
+
+## 📫 Reach me
+- LinkedIn: https://www.linkedin.com/in/adham-kamel-4291a1273/
+- Email: adhamkamel24@gmail.com
